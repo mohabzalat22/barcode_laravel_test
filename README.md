@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Barcode App** is a simple and intuitive tool for generating and scanning barcodes. The app provides users with the ability to create custom barcodes and decode barcode data in real-time using their camera or uploaded images.
+The **Barcode App** is a simple and intuitive tool for generating. The app provides users with the ability to create custom barcode.
 
 ## Features
 
