@@ -27,5 +27,12 @@ The **Barcode App** is a simple and intuitive tool for generating. The app provi
     ```bash
     npm install
     ```
-## notice
+## Notice
 1. barcodes is saved in public/barcodes
+
+
+## Database Seeder
+     ```bash
+    php artisan:seed
+    ```
+
